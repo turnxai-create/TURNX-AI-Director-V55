@@ -39,6 +39,6 @@ class UpdateHandler:
             return
 
         UpdateHandler.send_message(
-            chat_id,
-            f"You said:\n\n{text}"
-      )
+    chat_id,
+    "🚧 TURNX AI Director V5 is under construction.\n\nSoon you'll be able to generate Images, Videos, and Image-to-Video."
+        )
